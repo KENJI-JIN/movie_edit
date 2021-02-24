@@ -12,7 +12,7 @@ how to insatall moviepy(https://zulko.github.io/moviepy/install.html)
 `python prepare.py`
 
 2. Prepare video files in `input_video` folder.  
-*video files must be same size.  
+*Video files must be same size.  
 
 3. Name the files with a number and an underscore at the beginning as follows.  
 The videos are merged in the order of the numbers.  
