@@ -1,5 +1,5 @@
 # movie_edit
-the repository to edit movie  
+The repository to edit movies.  
 At first, a python code merging videos is uploaded.
 
 # Prerequests
