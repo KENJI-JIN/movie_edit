@@ -14,6 +14,6 @@ Next, please name the files with a number and an underscore at the beginning as 
 Finally please type the command as follows
 `python video_merge.py --foldername "your folder name"`
 
-The movie merged(default:video_merged.mp4) will be made in the same folder. 
+The movie merged(default:`video_merged.mp4`) will be made in the same folder. 
 
 You can specify the name of output file to use --output_filename.
