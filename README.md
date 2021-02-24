@@ -5,7 +5,7 @@ the repository to edit movie
 moviepy
 
 # Usage
-At first, please prepare video files in one folder.
+At first, please prepare video files in one folder.  
 Next, please name the files with a number and an underscore at the beginning as follows.
 1_videofilename
 2_videofilename
