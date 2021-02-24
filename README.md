@@ -2,8 +2,8 @@
 the repository to edit movie
 
 # Prerequests
-moviepy
-https://zulko.github.io/moviepy/install.html
+moviepy  
+how to insatll moviepy(https://zulko.github.io/moviepy/install.html)
 
 # Usage
 At first, please prepare video files in `input_video` folder.  
