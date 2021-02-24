@@ -7,8 +7,8 @@ moviepy
 # Usage
 At first, please prepare video files in one folder.  
 Next, please name the files with a number and an underscore at the beginning as follows.
-1_videofilename
-2_videofilename
+1_videofilename  
+2_videofilename  
 ...
 
 Finally please type the command as follows
