@@ -7,7 +7,7 @@ moviepy
 how to insatall moviepy(https://zulko.github.io/moviepy/install.html)
 
 # Usage
-1. Type commands as follows to make folders needed.
+1. Type commands as follows to make folders needed.  
 `cd movie_edit`  
 `python prepare.py`
 
