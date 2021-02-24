@@ -7,7 +7,7 @@ https://zulko.github.io/moviepy/install.html
 
 # Usage
 At first, please prepare video files in one folder.  
-*video files must be same size.
+*video files must be same size.  
 Next, please name the files with a number and an underscore at the beginning as follows.  
 `1_`videofilename  
 `2_`videofilename  
