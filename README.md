@@ -11,14 +11,15 @@ how to insatall moviepy(https://zulko.github.io/moviepy/install.html)
 `cd movie_edit`  
 `python prepare.py`
 
-2.Prepare video files in `input_video` folder.  
-
+2. Prepare video files in `input_video` folder.  
 *video files must be same size.  
+
 3. Name the files with a number and an underscore at the beginning as follows.  
 The videos are merged in the order of the numbers.  
 `1_`videofilename  
 `2_`videofilename  
 ...
+
 4. Type the command as follows  
 `python video_merge.py`  
 
