@@ -11,15 +11,14 @@ parser.add_argument('--output_filename', default='output_video/video_merged.mp4'
 args = parser.parse_args() 
 
 folder_path=args.foldername
-save_path = args.output_filename#保存先のpath
+save_path = args.output_filename
 file_paths=glob.glob(folder_path+"*")
 
 for i, file_path in enumerate(file_paths):
-    #動画読み込み
     tmp = VideoFileClip(file_path)
     if i==0:
         final_clip = tmp
     else:
-        final_clip = concatenate_videoclips([final_clip, tmp])#動画の連結
+        final_clip = concatenate_videoclips([final_clip, tmp])
 
-final_clip.write_videofile(save_path) #動画の書き込み
+final_clip.write_videofile(save_path)
