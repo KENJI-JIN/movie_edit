@@ -4,7 +4,7 @@ At first, a python code merging videos is uploaded.
 
 # Prerequests
 moviepy  
-how to insatall moviepy(https://zulko.github.io/moviepy/install.html)
+how to install moviepy(https://zulko.github.io/moviepy/install.html)
 
 # Usage
 1. Type commands as follows to make folders needed.  
