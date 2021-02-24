@@ -8,7 +8,7 @@ how to insatall moviepy(https://zulko.github.io/moviepy/install.html)
 
 # Usage
 1. Type commands as follows to make folders needed.  
-`cd movie_edit`  
+`cd movie_edit-main/video_merge`  
 `python prepare.py`
 
 2. Prepare video files in `input_video` folder.  
